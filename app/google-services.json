@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "928224087535",
+    "project_id": "expensesharingapp-a94cd",
+    "storage_bucket": "expensesharingapp-a94cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928224087535:android:69b3c44db97ea990ba3a1a",
+        "android_client_info": {
+          "package_name": "com.developer.ramanbansal.billsplitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928224087535-32v48fp9ar2t2u9pkjs64l29cklvu5m5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developer.ramanbansal.billsplitter",
+            "certificate_hash": "d476732e70a20493a5d43c68ccb5981d0cb95ee0"
+          }
+        },
+        {
+          "client_id": "928224087535-ocjviflf5k959a8o44rbf4eehkrqg8us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkwSo6Ygk6fFjFAxoCggoFWrszVZMguuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928224087535-ocjviflf5k959a8o44rbf4eehkrqg8us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
